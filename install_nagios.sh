@@ -77,7 +77,7 @@
 
             ' > /usr/local/nagios/etc/objects/contacts.cfg
             #-------------------emil in env var-----------------------
-
+     echo "here---------------------------------------------------------------------------------------"
 # Create a nagiosadmin account for logging into the Nagios web interface
 
             sudo htpasswd -c /usr/local/nagios/etc/htpasswd.users nagiosadmin       
